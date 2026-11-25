@@ -1,4 +1,4 @@
 demo:
   order-policy:
     message: Orders development policy v2
-    max-quantity: 8
+    max-quantity: 6

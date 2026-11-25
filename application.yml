@@ -1,0 +1,4 @@
+demo:
+  order-policy:
+    message: Shared default policy
+    max-quantity: 10

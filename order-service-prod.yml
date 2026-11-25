@@ -1,0 +1,4 @@
+demo:
+  order-policy:
+    message: Orders production profile policy
+    max-quantity: 20

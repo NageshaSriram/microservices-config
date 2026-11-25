@@ -1,0 +1,4 @@
+demo:
+  order-policy:
+    message: Orders development policy
+    max-quantity: 3

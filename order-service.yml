@@ -1,0 +1,4 @@
+demo:
+  order-policy:
+    message: Orders base policy
+    max-quantity: 5
